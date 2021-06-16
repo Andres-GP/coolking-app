@@ -1,0 +1,17 @@
+@media (max-width: 900px) {
+
+}
+@media (max-width: 600px) {
+}
+
+@media (max-width: 425px) {
+    /*searchbar*/
+    .searchbarSection__container__input{
+        margin-left: 15px;
+    }
+    
+    .searchbarSection__container__inputIcon{
+        margin-right: 15px; 
+    }
+
+}

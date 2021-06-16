@@ -1,6 +1,7 @@
 
 import './App.css';
 import Searchbar from './searchbar'
+import './searchbar.css'
 
 function App() {
   return (
