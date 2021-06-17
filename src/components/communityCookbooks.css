@@ -1,0 +1,27 @@
+
+/*Averia Serif Libre*/
+@import url('https://fonts.googleapis.com/css2?family=Averia+Serif+Libre:wght@300;400&display=swap');
+
+/*Signika*/
+@import url('https://fonts.googleapis.com/css2?family=Signika:wght@300&display=swap');
+
+
+.communityCookbooksSection{
+    background-color: #F1F2F3;
+    width: 100%;
+    height: 600px;
+}
+.communityCookbooksSection__titleContainer{
+    text-align: start;
+    margin-left: 1.3%;
+    font-size: 24px;
+    font-family: 'Averia Serif Libre', cursive;
+}
+.communityCookbooksSection__cardGenerator{
+    margin-top: 10px;
+    background-color: red;
+    height: 480px;
+    width: 340px;
+    margin-left: 1.3%;
+    border-radius: 16px;
+}
